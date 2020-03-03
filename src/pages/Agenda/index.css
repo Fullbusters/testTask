@@ -1,0 +1,46 @@
+
+.agenda-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #F2F5F9;
+    height: 100vh;
+    width: 100%;
+    padding: 35px;
+}
+
+.label {
+    color: #212733;
+    font-family: Metropolis, sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    letter-spacing: -0.48px;
+    line-height: 36px;
+    text-align: left;
+}
+
+.text {
+    color: #67788E;
+    font-family: Metropolis, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.16px;
+    line-height: 20px;
+    width: 635px;
+    text-align: left;
+}
+
+.confirm-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0068EC;
+    border-radius: 4px;
+    width: 58px;
+    height: 36px;
+    color: white;
+    cursor: pointer;
+}
+
+.success {
+    color: green;
+}

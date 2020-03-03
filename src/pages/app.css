@@ -1,0 +1,9 @@
+
+.app-container {
+    display: flex;
+}
+
+.side-menu {
+    width: 240px;
+    height: 100vh;
+}

@@ -1,0 +1,21 @@
+
+.textarea-style {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 1px 2px 0 rgba(191, 204, 218, 0.24);
+    height: 360px;
+    border: none;
+    resize: none;
+    padding: 15px;
+
+    font-family: Metropolis, sans-serif;
+    color: #212733;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.16px;
+    line-height: 20px;
+    width: 1080px;
+    text-align: left;
+}
